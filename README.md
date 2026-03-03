@@ -1,2 +1,5 @@
-# Data-Analysis-Dashboard-Visualization-
-I created data analysis dashboard for community Car buyers
+#  COMMUNITY CAR BUYERS ANALYSIS.
+## Overview:
+A data analysis project examining how financial and demographic factors influence car purchasing behavior within a community using Microsoft Excel and basic statistical techniques.
+
+
