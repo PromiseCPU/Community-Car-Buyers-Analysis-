@@ -29,7 +29,7 @@ Excel-based sample dataset sourced from YouTube. (Show dataset)
 
 ## Visualization: (snipping tool)
 Excel dashboard created using pivot charts.
-(https://docs.google.com/document/d/19dvbk05U3KT58r0mQZCMp74kJDnnbiOpMKtGvO7WlvQ/edit)
+(https://docs.google.com/document/d/19dvbk05U3KT58r0mQZCMp74kJDnnbiOpMKtGvO7WlvQ/edit) OR [Visit Dashboard] (https://github.com/PromiseCPU/Community-Car-Buyers-Analysis-/blob/main/Excel%20Dashboard.png)
 
 ## Key Insights:
 . Males purchased more cars and had higher average income levels.
