@@ -12,8 +12,8 @@ Assess how financial and demographic factors influence car purchasing behavior.
 MS Excel, Basic Statistics
 
 ## Dataset
-Excel-based sample dataset sourced from YouTube. (Show dataset)
-(https://docs.google.com/spreadsheets/d/15v2P0m6s-w1TxFSyKayEUSJKzQ9H8QYp/edit) OR
+Excel-based sample dataset sourced from YouTube. 
+[Show dataset](https://docs.google.com/spreadsheets/d/15v2P0m6s-w1TxFSyKayEUSJKzQ9H8QYp/edit) OR
 [Visit Dataset](https://github.com/PromiseCPU/Community-Car-Buyers-Analysis-/blob/main/Excel%20Project%20Dataset.xlsx)
 
 ## Questions/ Key Performance Indicators (KPIs):
